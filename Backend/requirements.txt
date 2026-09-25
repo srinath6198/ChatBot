@@ -1,0 +1,30 @@
+fastapi==0.115.0
+uvicorn[standard]==0.30.6
+sqlalchemy==2.0.35
+pymysql==1.1.1
+cryptography==43.0.1
+python-jose[cryptography]==3.3.0
+passlib[bcrypt]==1.7.4
+python-multipart==0.0.9
+pydantic[email]==2.9.2
+
+# RAG / LangChain
+langchain==0.3.7
+langchain-text-splitters==0.3.2
+langchain-huggingface==0.1.2
+langchain-ollama==0.2.0
+langchain-core==0.3.15
+
+# Vector DB
+chromadb==0.5.15
+
+# Embeddings / reranking
+sentence-transformers==3.2.1
+
+# Document parsing
+pypdf==5.0.1
+
+# Observability
+langfuse==2.53.9
+
+python-dotenv==1.0.1
