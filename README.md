@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # RAG Document Q&A Platform
 
 A full-stack Retrieval-Augmented Generation (RAG) application that lets you upload documents and chat with them using a local LLM via Ollama.
@@ -211,3 +212,7 @@ Full interactive docs: http://localhost:8000/docs
 
 **Frontend shows blank page**
 - Make sure the backend is running on port `8000` before starting the frontend.
+=======
+# ChatBot
+Chat Bot
+>>>>>>> 08afb3a5d1e5db6e8f763640ea7f9b0451eea22b
